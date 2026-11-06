@@ -1,0 +1,16 @@
+langchain
+langchain-openai
+langchain-xai
+langchain-mistralai
+langchain-google-genai
+python-dotenv
+streamlit>=1.35
+python-dotenv
+pydantic>=2
+langchain-core
+langchain-groq
+joblib
+scikit-learn
+pandas
+numpy
+pypdf
