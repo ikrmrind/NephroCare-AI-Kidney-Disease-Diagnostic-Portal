@@ -5,6 +5,10 @@
 Built with **Streamlit + LangChain + Groq LLM + Scikit-learn**, this project combines **LLM-based medical data extraction**, a **trained ML classifier for CKD prediction**, and a **beautiful dual-audience summary engine** — all wrapped in a premium, animated medical UI.
 
 ---
+<img width="406" height="331" alt="image" src="https://github.com/user-attachments/assets/6792e673-b108-4d01-93c0-04de179c2447" /><img width="421" height="331" alt="image" src="https://github.com/user-attachments/assets/6dd565a5-f253-4c74-8671-981bed1460f5" />
+<img width="446" height="365" alt="image" src="https://github.com/user-attachments/assets/6623ee13-7ccc-42b2-ab89-55dbcb9544f4" />
+
+
 
 ### 🎯 What It Does
 
