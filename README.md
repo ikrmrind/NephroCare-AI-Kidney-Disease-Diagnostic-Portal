@@ -83,8 +83,8 @@ A clean form to enter/edit all 20 UCI kidney biomarkers:
 
 ```bash
 # 1. Clone
-git clone https://github.com/ikrmrind/nephrocare-ai.git
-cd nephrocare-ai
+git https://github.com/ikrmrind/-NephroCare-AI---Kidney-Disease-Diagnostic-Portal.git
+
 
 # 2. Install
 pip install streamlit langchain langchain-groq pydantic pandas scikit-learn joblib python-dotenv
